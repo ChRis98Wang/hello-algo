@@ -5,7 +5,7 @@
  */
 
 #include "../utils/common.hpp"
-
+// slfksdjf
 /* 随机访问元素 */
 int randomAccess(int *nums, int size) {
     // 在区间 [0, size) 中随机抽取一个数字
